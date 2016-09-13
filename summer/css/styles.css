@@ -81,7 +81,10 @@ body{
 .listmenu a:hover{
 	background-color: #f4f4f4;
 }
-.search{
+.middle-left{
+	float: left;
+}
+.middle-right{
 	float: right;
 }
 .main-one,
